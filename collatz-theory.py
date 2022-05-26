@@ -1,7 +1,7 @@
 # Search a number that disproves Collatz theory :-D
 # Probably an endless loop due to the natural law of the theory
 num = 1
-test = 987654898765678876
+test = 1
 while num == 1:
     num = test
     while num != 1:
